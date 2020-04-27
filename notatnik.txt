@@ -1,0 +1,1 @@
+Jest anagramem i palindromem

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588002960 source:c:\users\bartek\desktop\programy\tekst palnidrom anagram\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
+1588003451 source:c:\users\bartek\desktop\programy\palnidrom anagram do piku txt\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
